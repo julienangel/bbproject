@@ -1,0 +1,17 @@
+C:\Users\Joao\source\repos\BlueByteTools\src\BlueByte.Services.Interface\bin\Debug\BlueByte.Services.Interface.dll
+C:\Users\Joao\source\repos\BlueByteTools\src\BlueByte.Services.Interface\bin\Debug\BlueByte.Services.Interface.pdb
+C:\Users\Joao\source\repos\BlueByteTools\src\BlueByte.Services.Interface\bin\Debug\BlueByte.Infrastructure.Utils.dll
+C:\Users\Joao\source\repos\BlueByteTools\src\BlueByte.Services.Interface\bin\Debug\BlueByte.Infrastructure.Utils.pdb
+C:\Users\Joao\source\repos\BlueByteTools\src\BlueByte.Services.Interface\obj\Debug\BlueByte.Services.Interface.csprojAssemblyReference.cache
+C:\Users\Joao\source\repos\BlueByteTools\src\BlueByte.Services.Interface\obj\Debug\BlueByte.Services.Interface.csproj.CoreCompileInputs.cache
+C:\Users\Joao\source\repos\BlueByteTools\src\BlueByte.Services.Interface\obj\Debug\BlueByte.Services.Interface.csproj.CopyComplete
+C:\Users\Joao\source\repos\BlueByteTools\src\BlueByte.Services.Interface\obj\Debug\BlueByte.Services.Interface.dll
+C:\Users\Joao\source\repos\BlueByteTools\src\BlueByte.Services.Interface\obj\Debug\BlueByte.Services.Interface.pdb
+C:\Users\Joao\Desktop\BlueByteTools\src\BlueByte.Services.Interface\bin\Debug\BlueByte.Services.Interface.dll
+C:\Users\Joao\Desktop\BlueByteTools\src\BlueByte.Services.Interface\bin\Debug\BlueByte.Services.Interface.pdb
+C:\Users\Joao\Desktop\BlueByteTools\src\BlueByte.Services.Interface\bin\Debug\BlueByte.Infrastructure.Utils.dll
+C:\Users\Joao\Desktop\BlueByteTools\src\BlueByte.Services.Interface\bin\Debug\BlueByte.Infrastructure.Utils.pdb
+C:\Users\Joao\Desktop\BlueByteTools\src\BlueByte.Services.Interface\obj\Debug\BlueByte.Services.Interface.csprojAssemblyReference.cache
+C:\Users\Joao\Desktop\BlueByteTools\src\BlueByte.Services.Interface\obj\Debug\BlueByte.Services.Interface.csproj.CopyComplete
+C:\Users\Joao\Desktop\BlueByteTools\src\BlueByte.Services.Interface\obj\Debug\BlueByte.Services.Interface.dll
+C:\Users\Joao\Desktop\BlueByteTools\src\BlueByte.Services.Interface\obj\Debug\BlueByte.Services.Interface.pdb

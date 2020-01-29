@@ -1,0 +1,19 @@
+<Application x:Class="BlueByte.WPF.App" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:local="clr-namespace:BlueByte.WPF" StartupUri="Views/Windows/MainWindow.xaml" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" d1p1:Ignorable="d" xmlns:d1p1="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:locators="clr-namespace:BlueByte.WPF.Locators"
+             xmlns:valueConverters="clr-namespace:BlueByte.WPF.ValueConverters">
+    <Application.Resources>
+        <ResourceDictionary>
+            <locators:ViewModelLocator x:Key="Locator" d:IsDataSource="True" />
+
+            <!-- Value Converters -->
+            <valueConverters:ComponentTypeToVisibilityConverter x:Key="ComponentTypeToVisibilityConverter"/>
+            <valueConverters:BooleanToVisibilityConverter x:Key="BooleanToVisibilityConverter"/>
+
+
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="Styles/Buttons.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

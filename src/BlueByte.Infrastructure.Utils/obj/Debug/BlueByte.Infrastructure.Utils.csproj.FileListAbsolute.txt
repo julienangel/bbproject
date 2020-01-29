@@ -1,0 +1,11 @@
+C:\Users\Joao\source\repos\BlueByteTools\src\BlueByte.Infrastructure.Utils\bin\Debug\BlueByte.Infrastructure.Utils.dll
+C:\Users\Joao\source\repos\BlueByteTools\src\BlueByte.Infrastructure.Utils\bin\Debug\BlueByte.Infrastructure.Utils.pdb
+C:\Users\Joao\source\repos\BlueByteTools\src\BlueByte.Infrastructure.Utils\obj\Debug\BlueByte.Infrastructure.Utils.csproj.CoreCompileInputs.cache
+C:\Users\Joao\source\repos\BlueByteTools\src\BlueByte.Infrastructure.Utils\obj\Debug\BlueByte.Infrastructure.Utils.dll
+C:\Users\Joao\source\repos\BlueByteTools\src\BlueByte.Infrastructure.Utils\obj\Debug\BlueByte.Infrastructure.Utils.pdb
+C:\Users\Joao\source\repos\BlueByteTools\src\BlueByte.Infrastructure.Utils\obj\Debug\BlueByte.Infrastructure.Utils.csprojAssemblyReference.cache
+C:\Users\Joao\Desktop\BlueByteTools\src\BlueByte.Infrastructure.Utils\bin\Debug\BlueByte.Infrastructure.Utils.dll
+C:\Users\Joao\Desktop\BlueByteTools\src\BlueByte.Infrastructure.Utils\bin\Debug\BlueByte.Infrastructure.Utils.pdb
+C:\Users\Joao\Desktop\BlueByteTools\src\BlueByte.Infrastructure.Utils\obj\Debug\BlueByte.Infrastructure.Utils.csprojAssemblyReference.cache
+C:\Users\Joao\Desktop\BlueByteTools\src\BlueByte.Infrastructure.Utils\obj\Debug\BlueByte.Infrastructure.Utils.dll
+C:\Users\Joao\Desktop\BlueByteTools\src\BlueByte.Infrastructure.Utils\obj\Debug\BlueByte.Infrastructure.Utils.pdb
